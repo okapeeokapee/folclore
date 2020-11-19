@@ -4,6 +4,12 @@
 .imokasi{
   width: 350px;
 }
+.imizitai{
+  width: 350px;
+}
+.imizitaikasi{
+  width: 350px;
+}
 
 @media screen and (min-width:1000px){
   .imo{
@@ -11,5 +17,13 @@
   }
   .imokasi{
     width: 500px;
+    height: 680px;
+  }
+  .imizitai{
+    width: 500px;
+  }
+  .imizitaikasi{
+    width: 500px;
+    height: 670px;
   }
 }
