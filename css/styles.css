@@ -10,6 +10,9 @@
 .imizitaikasi{
   width: 350px;
 }
+.hinahina{
+  width: 350px;
+}
 
 @media(min-width:1000px){
   .imo{
@@ -25,5 +28,8 @@
   .imizitaikasi{
     width: 500px;
     height: 670px;
+  }
+  .hinahina{
+    width: 600px;
   }
 }
