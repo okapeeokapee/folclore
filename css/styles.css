@@ -16,6 +16,9 @@
 .hinahina{
   width: 350px;
 }
+.hinahinana{
+  width: 350px;
+}
 .kena{
   width: 350px;
 }
@@ -41,6 +44,10 @@
   }
   .hinahina{
     width: 500px;
+  }
+  .hinahinana{
+    width: 500px;
+    height: 580px;
   }
   .kena{
     width: 500px;
