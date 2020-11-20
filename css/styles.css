@@ -4,6 +4,9 @@
 .imokasi{
   width: 350px;
 }
+.imokasisi{
+  width: 350px;
+}
 .imizitai{
   width: 350px;
 }
@@ -13,14 +16,21 @@
 .hinahina{
   width: 350px;
 }
+.kena{
+  width: 350px;
+}
 
-@media(min-width:1000px){
+@media(min-width:1200px){
   .imo{
     width: 500px;
   }
   .imokasi{
     width: 500px;
     height: 680px;
+  }
+  .imokasisi{
+    width: 500px;
+    height:630px ;
   }
   .imizitai{
     width: 500px;
@@ -30,6 +40,9 @@
     height: 670px;
   }
   .hinahina{
-    width: 600px;
+    width: 500px;
+  }
+  .kena{
+    width: 500px;
   }
 }
