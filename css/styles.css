@@ -6,37 +6,16 @@
 .imizitaichasoro{width: 350px;}
 .hinahina{width: 350px;}
 .hinahinana{width: 350px;}
-.kena{
-  width: 350px;
-}
+.kena{width: 350px;}
 
 @media(min-width:1200px){
-  .imo{
-    width: 500px;
-  }
-  .imokasi{
-    width: 500px;
-    height: 680px;
-  }
-  .imokasisi{
-    width: 500px;
-    height:630px ;
-  }
-  .imizitai{
-    width: 500px;
-  }
-  .imizitaikasi{
-    width: 500px;
-    height: 670px;
-  }
-  .hinahina{
-    width: 500px;
-  }
-  .hinahinana{
-    width: 500px;
-    height: 580px;
-  }  
-  .kena{
-    width: 500px;
-  }
+  .imo{width: 500px;}
+  .imokasi{width: 500px;height: 680px;}
+  .imokasisi{width: 500px;height:630px ;}
+  .imizitai{ width: 500px;}
+  .imizitaikasi{width: 500px;height: 670px;}
+  .imizitaichasoro{width: 500px;}
+  .hinahina{width: 500px;}
+  .hinahinana{width: 500px;height: 580px;}  
+  .kena{width: 500px;}
 }
